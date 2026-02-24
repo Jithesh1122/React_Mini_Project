@@ -62,13 +62,4 @@ Refined spacing, colors, and visual consistency for a cleaner user experience.
 ### Day 9: Final testing and GitHub submission
 Performed final checks, fixed minor UI/logic issues, reviewed edge cases, and prepared the project for GitHub submission.
 
-## Suggested Commit Messages (Day-wise)
-1. `Day 1: Analyze requirements and plan dashboard UI structure`
-2. `Day 2: Setup React project and create base component layout`
-3. `Day 3: Implement task creation form and task rendering`
-4. `Day 4: Add edit and delete functionality for tasks`
-5. `Day 5: Implement task status workflow with visual indicators`
-6. `Day 6: Add task filtering by status/priority and due-date sorting`
-7. `Day 7: Integrate localStorage for persistent task data`
-8. `Day 8: Build dashboard summary cards and polish UI`
-9. `Day 9: Final testing, bug fixes, and prepare GitHub submission`
+
